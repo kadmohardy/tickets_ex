@@ -1,5 +1,5 @@
 # tickets_ex
-A simple applications that show how to integrate rabbit_mq to elixir
+A simple applications that show how to integrate **RabbitMQ** to elixir
 
 Book reference:
 **Concurrent Data Processing in Elixir Fast, Resilient Applications with OTP, GenStage, Flow, and Broadway by Svilen Gospodinov**
